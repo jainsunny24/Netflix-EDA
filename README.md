@@ -40,7 +40,7 @@ This repository is about EDA performed on the Netflix.
 * United Kingdom, Japan and South Korea produces more TV Shows in their countries as comapred to Movies on Netfix.
 
 # Conclusion  
-Through this EDA, we aim to gain insights into the content diversity, trends, and audience preferences on Netflix. The analysis will shed light on the evolution of the platform's offerings and the global impact of streaming entertainment.
+Through this EDA, I aim to gain insights into the content diversity, trends, and audience preferences on Netflix. The analysis will shed light on the evolution of the platform's offerings and the global impact of streaming entertainment.
 
-As we delve into this dataset, we recognize the role of streaming platforms like Netflix in shaping modern entertainment consumption and connecting audiences worldwide with a wide array of stories and experiences.
+I recognized the role of streaming platforms like Netflix in shaping modern entertainment consumption and connecting audiences worldwide with a wide array of stories and experiences.
 
